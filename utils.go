@@ -8,8 +8,8 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/FactomProject/basen"
 	btcutil "github.com/FactomProject/btcutilecc"
+	"github.com/cmars/basen"
 	"golang.org/x/crypto/ripemd160"
 )
 
